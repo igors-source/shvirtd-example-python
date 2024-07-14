@@ -3,3 +3,7 @@ Dockerfile.python
 .gitignore
 __pycache__
 *.pyc
+/haproxy
+/nginx
+compose.yaml
+proxy.yaml
